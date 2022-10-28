@@ -1,0 +1,17 @@
+{
+    "id":"jnfklkjsnjkbnkjnfskjnb",
+    "topicName":"Anemia",
+    "topicQuestion":[
+        {
+            "Generalquesion":"What is anemia?",
+            "Variations":["define anemia"],
+            "answer":"anemia is something"
+        },
+        {
+            "Generalquesion":"What are types of anemia?",
+            "Variations":["anemia types"],
+            "answer":"anemia types are"
+        }
+    ]
+
+}

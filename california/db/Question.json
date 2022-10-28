@@ -1,0 +1,36 @@
+{
+    "id":"jnfklkjsnjkbnkjnfskjnb",
+    "rules":[
+        "The test conduct of 20 minutes",
+        "there is no back tracking",
+        "no marks deducted on wrong answer"
+    ],
+    "practrice name":"Practrice Test 1",
+    "Question":
+    [
+        {
+            "number":1,
+            "Question":"What is the name of the bot",
+            "options":["zara","rosa","Alex","happy"],
+            "desction":
+            [
+                "zara is the correct one",
+                "rosa is incorrect",
+                "alex is incorrect",
+                "happy is not correct"
+            ]
+        },
+        {
+            "number":2,
+            "Question":"What is the name of the bot",
+            "options":["zara","rosa","Alex","happy"],
+            "desction":
+            [
+                "zara is the correct one",
+                "rosa is incorrect",
+                "alex is incorrect",
+                "happy is not correct"
+            ]
+        }       
+    ]
+}
